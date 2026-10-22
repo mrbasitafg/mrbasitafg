@@ -1,8 +1,9 @@
 <h1 align="center">Hi, I'm Basit Ahmad Fazulyar 👋</h1>
-<h3 align="center">Founder & E-commerce Developer at <a href="https://fazvida.com/pages/about-the-founder">FAZVIDA</a></h3>
+<h3 align="center">Founder & CEO at <a href="https://fazvida.com/pages/about-the-founder">FAZVIDA</a></h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/basit-ahmad-fazulyar-b1238222b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/mrbasitafg"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://www.youtube.com/@BasitVisuals"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
   <a href="https://www.tiktok.com/@mrbasitafg"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
   <a href="https://www.crunchbase.com/person/basit-ahmad-fazulyar"><img src="https://img.shields.io/badge/Crunchbase-0288D1?style=for-the-badge&logo=crunchbase&logoColor=white" /></a>
@@ -12,7 +13,7 @@
 
 ### 🚀 About Me
 
-I'm the founder of **FAZVIDA**, an online store based in South Sioux City, Nebraska. I build and run the store on my own, with automation handling most of the work behind the scenes.
+I'm the Founder & CEO of **FAZVIDA**, an online store based in South Sioux City, Nebraska. I build and run the store on my own, with automation handling most of the work behind the scenes.
 
 I design workflows that connect supplier APIs with Shopify, automating product research, quality checks, pricing, listing and stock sync, so one person can run what would normally take a small team.
 
